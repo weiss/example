@@ -1,4 +1,4 @@
-%% @doc Note the {@type foo()} type!
+%% @doc Note the {@type foo()} type! Not to forget the {@link atom()} type.
 %% @end
 
 -module(example_app).
